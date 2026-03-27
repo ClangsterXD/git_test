@@ -1,1 +1,1 @@
-I am adding some text and staging it.
+I am adding some text and staging it. This is another test to test the git commit function. 
