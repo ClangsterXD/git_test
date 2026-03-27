@@ -1,3 +1,3 @@
 I am adding some text and staging it. This is another test to test the git commit function.
 
-New entry: Testing how to add message to the commit. 
+New entry: Testing how to add message to the commit. Other test.
